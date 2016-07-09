@@ -51,6 +51,14 @@ body  section{
 	padding: 75px 0;
 }
 
+.crystal_color_text {
+	color: #216070;
+}
+
+#crystal_color_text2 {
+	color: #216070;
+}
+
 a:hover {
 	outline: none;
 	text-decoration:none;
